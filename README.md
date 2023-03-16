@@ -9,13 +9,15 @@
 
 ---
 
-### 👨‍💻 About Me :
+<!--
 
-<!-- 💬 Ask me about PHP, Laravel, Python, Javascript -->
+### 👨‍💻 About Me :
 
 - 📫 How to reach me alexayusoherranz2001@gmail.com
 
 - 🌱 I’m currently learning Python
+
+-->
 
 <!-- 🌐 Website -->
 
