@@ -9,20 +9,6 @@
 
 ---
 
-<!--
-
-### 👨‍💻 About Me :
-
-- 📫 How to reach me alexayusoherranz2001@gmail.com
-
-- 🌱 I’m currently learning Python
-
--->
-
-<!-- 🌐 Website -->
-
-
-
 <div>
   <h3>🔨 Languages and Tools:</h3>
   <div>
@@ -38,7 +24,6 @@
     <!-- <img src="" title="" alt="" width="40" height="40" /> &nbsp; -->
   </div>
 </div>
-
 
 ---
 
