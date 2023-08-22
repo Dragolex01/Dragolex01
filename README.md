@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-    <h1 align="center">Hi there 👋, I'm Álex</h1>
+    <!--<h1 align="center">Hi there 👋, I'm Álex</h1>-->
     <!--<h3 align="center">descripcion</h3>-->
     <!-- <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a> -->
 </div>
